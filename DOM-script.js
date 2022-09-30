@@ -1,10 +1,3 @@
-// Om Ganapathi Siddhi Buddhi
-// Omahskthi amma Shivappa
-// Vishnu Lakhsmi
-// Brahama Saraswathi
-// Dakshinamurthy Haygriva
-// Sri Venakteshwara Sri Vidya Vijaya Gnana Dhyrya Aurogya Samayaspoorthi Ananda Lakshmi devi
-
 //1. 
 document.querySelector(".side-bar .crayons-subtitle-2").innerHTML = "iNeuron";
 document.querySelector(".side-bar .crayons-card p").innerHTML = "I Write Code";
